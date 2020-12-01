@@ -1,0 +1,159 @@
+@media only screen and (max-width:767px){
+	body{
+		padding-top:81px;
+	}
+	.sec-service h3 {
+		font-size: 40px;
+		font-weight: bold;
+		margin-top: 50px;
+}
+.bottom-footer p {
+    margin-bottom: 0px;
+    text-align: center;
+    color: #fff;
+    font-size: 12px;
+}
+.navbar-nav {
+    text-align: center;
+    float:none;
+}
+.testslider {
+	background:#e6e6e6;
+	margin-top:40px;
+}
+.testslider .carousel-inner{
+	width:80%;
+	margin:auto;
+}
+.testslider .carousel-control.right {
+    width: 28px;
+    height: 34px;
+    background: #ec971f;
+    opacity: 1;
+    line-height: 35px;
+    font-size: 19px;
+    text-align: center;
+    margin: auto;
+    right: 5px;
+}
+.testslider .carousel-control.left {
+    width: 28px;
+    height: 34px;
+    background: #ec971f;
+    opacity: 1;
+    line-height: 35px;
+    font-size: 19px;
+    text-align: center;
+    margin: auto;
+    left: 5px;
+}
+.submit-button .btn-warning {
+    float: right;
+    margin-right: 15px;
+}
+.contact-form{
+	padding-top:18px;
+}
+.testslider .carousel-inner img{
+	width:75px;
+}
+.blurb-content{
+	    margin-bottom: 75px;
+}
+.blurb-icon img{
+	position: absolute;
+    top: -60px;
+    left: 42%;
+}
+ul.nav.nav-tabs.tabs-left a{
+	font-size:11px;
+    padding: 16px;
+}
+.form-heading h2{
+	padding-top:10px;
+	margin-top: 80px;
+}
+.project-heading h2{
+	font-size:40px;
+	text-align: center;
+    margin-bottom: 30px;
+    font-weight: bold;
+}
+.form-heading h2{
+	font-size:40px;
+}
+.owl-prev {
+    font-size: 35px;
+    position: absolute;
+    top: -35px;
+    left: 80%;
+	background-color: #ec971f;
+    border-radius: 25px;
+    height: 30px;
+    width: 30px;
+	text-align:center;
+}
+.owl-prev i {
+    font-size: 28px;
+    line-height: 29px;
+    display: block;
+    color: #fff;
+}
+.owl-next {
+	font-size: 35px;
+    position: absolute;
+    top: -35px;
+    text-align: center;
+    right: 0px;
+    background-color: #ec971f;
+    border-radius: 25px;
+    height: 30px;
+    width: 30px;
+}
+.owl-next i {
+    font-size: 28px;
+    line-height: 29px;
+    display: block;
+    color: #fff;
+}
+.client-heading h2 {
+    font-size: 40px;
+    font-weight: bold;
+    text-align: Center;
+    margin-bottom: 50px;
+
+}
+.blog-heading h2{
+	margin-bottom:0px;
+}
+.blog-heading h2{
+	font-size:40px;
+}
+.about-heading h2{
+	font-size:40px;
+}
+.tab-heading h3{
+	font-size:35px;
+}
+.service-sec2 .sec-service2 h3{
+	font-size:35px;
+}
+.blurb-content p{
+	font-size: 14px;
+}
+.Content-tabs .tabs-left li{
+	display:inline-block;
+	width: 50%;
+}
+.service-heading h3{
+	text-align:center;
+	margin-bottom:35px;
+	margin-top:50px;
+	font-size: 40px;
+    text-align: center;
+    font-weight: bold;
+}
+}
+@media only screen and (min-width:768px) and (max-width:1024px){
+	
+}

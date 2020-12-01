@@ -1,0 +1,25 @@
+.navbar-inverse{
+	border-radius:0px;
+}
+.navbar-nav{
+	margin:auto;
+	display:block;
+}
+.navbar-brand{
+	font-size:25px;
+}
+.navbar{
+	margin-bottom:0px;
+	background-color:transparent;
+	border:none;
+	margin-top:50px;	
+}
+.navbar-inverse .navbar-nav>li>a{
+	color:#000;
+}
+.navbar-inverse .navbar-nav>li>a:hover{
+	color:red;
+}
+.navbar-inverse .navbar-nav>li>a:focus{
+	color:red;
+}
